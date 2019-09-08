@@ -76,7 +76,7 @@ ___
 
 
 ___
-### - Reponsividade ###  
+### Reponsividade ###  
   - Media querie e a função @media
   - Media como atributo da tag style
   
@@ -102,10 +102,10 @@ ___
 ___
 ### Compatilibidades ###    
   - prefixos
-    -webkit- (Chrome, Safari, versões mais recentes do Opera.)
-    -moz- (Firefox)
-    -o- (Versões antigas do Opera)
-    -ms- (Internet Explorer)
+      -webkit- (Chrome, Safari, versões mais recentes do Opera.)
+  	  -moz- (Firefox)
+    	-o- (Versões antigas do Opera)
+    	-ms- (Internet Explorer)
 	
 ##### Material de Apoio
 1. [MDN - Vendor](https://developer.mozilla.org/pt-BR/docs/Glossario/Prefixos_vendor)
