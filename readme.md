@@ -68,9 +68,9 @@ ___
     
     
 ##### Material de Apoio
-1.     [animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
-2.     [animation-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
-3.     [keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+1.[animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+2.[animation-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
+3.[keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
 
 ___
 ### - Reponsividade ###  
@@ -79,8 +79,8 @@ ___
   
   
 ##### Material de Apoio
-2.   [Media](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/media)
-3.   [@media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
+1.[Media](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/media)
+2.[@media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
 
 ___
 ### CSS Moderno ###    
@@ -91,8 +91,8 @@ ___
     - attr()
 	
 ##### Material de Apoio
-2. [:root](https://developer.mozilla.org/en-US/docs/Web/CSS/:root)
-3. [Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
+1. [:root](https://developer.mozilla.org/en-US/docs/Web/CSS/:root)
+2. [Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
 
 ___
 #### Sites para todo o conteúdo ###
