@@ -100,12 +100,23 @@ ___
 2. [Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
 
 ___
+### Compatilibidades ###    
+  - prefixos
+    -webkit- (Chrome, Safari, versões mais recentes do Opera.)
+    -moz- (Firefox)
+    -o- (Versões antigas do Opera)
+    -ms- (Internet Explorer)
+	
+##### Material de Apoio
+1. [MDN - Vendor](https://developer.mozilla.org/pt-BR/docs/Glossario/Prefixos_vendor)
+2. [Prefixos - Tableless](https://tableless.com.br/prefixos-dos-browsers-a-web-precisa-de-voce/)
+___
 #### Sites para todo o conteúdo ###
 [MDN - CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [CSS - Tricks](https://css-tricks.com)
 [Chief of Desing](https://www.chiefofdesign.com.br/css/)
 [w3cschool](https://www.w3schools.com/css/default.asp)
-
+[Tableless](https://tableless.com.br/)
 
 #### Contas / Pessoas para acompanhar  ###
 [Sarah Drasner](https://github.com/sdras)
