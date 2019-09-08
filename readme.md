@@ -105,3 +105,11 @@ ___
 [CSS - Tricks](https://css-tricks.com)
 [Chief of Desing](https://www.chiefofdesign.com.br/css/)
 [w3cschool](https://www.w3schools.com/css/default.asp)
+
+
+#### Contas / Pessoas para acompanhar  ###
+[Sarah Drasner](https://github.com/sdras)
+[Sara Soueidan]https://www.sarasoueidan.com)
+[Keyframers](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA)
+[Kashef](https://www.instagram.com/msk.codes)
+[Felipe Fialho](https://www.felipefialho.com)
