@@ -92,7 +92,8 @@ ___
   - Custom Properties 
   - funcões
     - calc()
-    - attr()
+    - attr()    
+    - var()
 	
 ##### Material de Apoio
 1. [:root](https://developer.mozilla.org/en-US/docs/Web/CSS/:root)
