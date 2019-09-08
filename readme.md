@@ -69,8 +69,11 @@ ___
     
 ##### Material de Apoio
 1.[animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+
 2.[animation-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
+
 3.[keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+
 
 ___
 ### - Reponsividade ###  
@@ -80,6 +83,7 @@ ___
   
 ##### Material de Apoio
 1.[Media](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/media)
+
 2.[@media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
 
 ___
