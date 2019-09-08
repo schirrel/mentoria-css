@@ -112,15 +112,15 @@ ___
 2. [Prefixos - Tableless](https://tableless.com.br/prefixos-dos-browsers-a-web-precisa-de-voce/)
 ___
 #### Sites para todo o conteúdo ###
-[MDN - CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[CSS - Tricks](https://css-tricks.com)
-[Chief of Desing](https://www.chiefofdesign.com.br/css/)
-[w3cschool](https://www.w3schools.com/css/default.asp)
-[Tableless](https://tableless.com.br/)
+1. [MDN - CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+2. [CSS - Tricks](https://css-tricks.com)
+3. [Chief of Desing](https://www.chiefofdesign.com.br/css/)
+4. [w3cschool](https://www.w3schools.com/css/default.asp)
+5. [Tableless](https://tableless.com.br/)
 
 #### Contas / Pessoas para acompanhar  ###
-[Sarah Drasner](https://github.com/sdras)
-[Sara Soueidan]https://www.sarasoueidan.com)
-[Keyframers](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA)
-[Kashef](https://www.instagram.com/msk.codes)
-[Felipe Fialho](https://www.felipefialho.com)
+1. [Sarah Drasner](https://github.com/sdras)
+2. [Sara Soueidan]https://www.sarasoueidan.com)
+3. [Keyframers](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA)
+4. [Kashef](https://www.instagram.com/msk.codes)
+5. [Felipe Fialho](https://www.felipefialho.com)
