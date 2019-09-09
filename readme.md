@@ -120,7 +120,7 @@ ___
 
 #### Contas / Pessoas para acompanhar  ###
 1. [Sarah Drasner](https://github.com/sdras)
-2. [Sara Soueidan]https://www.sarasoueidan.com)
+2. [Sara Soueidan](https://www.sarasoueidan.com)
 3. [Keyframers](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA)
 4. [Kashef](https://www.instagram.com/msk.codes)
 5. [Felipe Fialho](https://www.felipefialho.com)
