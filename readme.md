@@ -111,6 +111,10 @@ ___
 1. [MDN - Vendor](https://developer.mozilla.org/pt-BR/docs/Glossario/Prefixos_vendor)
 2. [Prefixos - Tableless](https://tableless.com.br/prefixos-dos-browsers-a-web-precisa-de-voce/)
 ___
+
+### Tutoriais e Tricks ###
+  - [Centralizando Coisas - W3C](https://www.w3.org/Style/Examples/007/center.pt_BR.html)
+  
 #### Sites para todo o conteúdo ###
 1. [MDN - CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 2. [CSS - Tricks](https://css-tricks.com)
