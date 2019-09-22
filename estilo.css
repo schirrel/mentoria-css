@@ -1,0 +1,141 @@
+html {
+	height: 100%;
+	width: 100%;
+  background: #0e0e0e;
+}
+body {
+
+	height: 100%;
+	width: 100%;
+	margin: 0px !important;
+	padding: 0px !important;
+	background: linear-gradient(45deg, #ededed, #bed8f3);
+ display: grid;    
+ grid-template-columns: repeat(12, 1fr);
+ grid-template-rows: 50px calc(100vh - 100px) 50px;
+}
+header {
+    grid-column: span 12;
+    display: flex;
+    border-bottom: 1px solid #fdfdfd;
+    background:#fdfdfd;
+}
+aside {
+    grid-column: span 2;
+}
+main {
+    overflow-y: scroll;
+    grid-column: span 10;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  background: #313131;
+  color: #fff;
+  align-items: center;
+  grid-column: span 12;
+}
+
+* {
+   box-sizing: border-box;
+}
+header nav{
+    display: flex;
+    align-items: center;
+    align-content: stretch;
+    align-self: stretch;
+    flex-grow: 12;
+}
+
+header nav a{
+    padding: 0px 15px;
+}
+
+header nav a:first-child  {
+
+    padding: 10px 10px;
+    display: grid;
+    width: 40px;
+}
+header nav a:first-child span {
+    width: 100%;
+    display: flex;
+    height: 2px;
+    background: black;
+}
+header nav a:nth-child(2) {
+   margin-right: auto;
+   font-weight: 700;
+}
+
+header nav a {
+    align-items: center;
+    display: flex;
+    transition: background 500ms  ease;
+    background: transparent;
+    text-decoration: none;
+    color: black;
+
+    align-items: center;
+    height: 100%;
+}
+
+header nav a:hover{
+	background: rgba(255,255,255,0.56);
+}
+
+ol {
+    list-style: disc;
+}
+
+ol ol  {
+    list-style: circle;
+}
+
+#aulas-loading {
+        width: 100%;
+    height: 0;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    opacity: 0;
+    transition: opacity 500ms ease-in-out, height 50ms linear ;
+}
+#aulas-loading.mostrar-loading{
+ opacity: 1;
+    height: 80px;
+}
+
+
+
+#aulas-loading:after {
+    content: ' ';display: block;
+    margin: auto;
+    border-radius: 50%;
+    border: 2px dashed;
+    width: 50px;
+    height: 50px;
+ animation: rotate 15s linear infinite;
+}
+
+
+
+@keyframes rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.aula-conteudo {
+    border-radius: 4px;
+    border: 1px solid #ededed;
+    padding: 2px 5px;
+    margin: 2px 5px;
+    background: white;
+    box-shadow: 0px 0px 6px rgba(0,0,0,0.25);
+}
+
+
+.aula-titulo {
+    padding: 2px ;
+    margin: 2px ;
+} 
